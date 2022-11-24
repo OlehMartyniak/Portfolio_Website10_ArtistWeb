@@ -1,0 +1,5 @@
+video source: 
+https://www.youtube.com/watch?v=z3MueMJcfSE&ab_channel=Mr.WebDesigner
+
+слайдер:
+https://swiperjs.com/demos
